@@ -1,0 +1,16 @@
+langchain_community
+langchain_core
+langchain_groq
+streamlit
+python-dotenv
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+chromadb
+sentence-transformers
+faiss-cpu
+wikipedia
+arxiv
