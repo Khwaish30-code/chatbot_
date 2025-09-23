@@ -1,7 +1,7 @@
 # My ChatGroq Project 🤖
 
 ## What is this?
-This is my school project that builds a smart chatbot using AI! It can answer questions about machine learning by reading HuggingFace documentation.
+This is my project that builds a smart chatbot using AI! It can answer questions about machine learning by reading HuggingFace documentation.
 
 ## What does it do?
 - Loads a website (HuggingFace docs) automatically
